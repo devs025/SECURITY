@@ -20,12 +20,13 @@ Responsiveness: Adapt to mobile and desktop breakpoints.
 Application Structure & Content:
 
 ### Pages:
-🏠 Home: Hero, Stats, Services, Sectors, Testimonials, CTA sections.
-🛡️ Nos Services: Dedicated to each service.
-🏢 Secteurs d'activité: With case studies.
-ℹ️ À propos: Company history since 2020.
-✍️ Candidature: Optimized application form.
-📞 Contact: Multi-channel contact information.
+- 🏠 Home: Hero, Stats, Services, Sectors, Testimonials, CTA sections.
+- 🛡️ Nos Services: Dedicated to each service.
+- 🏢 Secteurs d'activité: With case studies.
+- ℹ️ À propos: Company history since 2020.
+- ✍️ Candidature: Optimized application form.
+- 📞 Contact: Multi-channel contact information.
+
 ### Navigation: Intuitive navigation with visual cues, including a fixed header and a footer.
 ### Data: Currently, all content (company info, services, sectors, testimonials, job offers) is mocked.
 ### Pending Content:
