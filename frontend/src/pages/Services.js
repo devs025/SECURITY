@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Car, Flame, Key, FileSearch, Calendar, CheckCircle, ArrowRight } from 'lucide-react';
+import { Shield, Car, Flame, Key, FileSearch, Calendar, CheckCircle, ArrowRight, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { services, companyInfo } from '../mock';
 
